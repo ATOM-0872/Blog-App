@@ -26,16 +26,22 @@ A clean, responsive, and visually engaging blog platform built using React and T
 
 
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Homepage
-![Homepage Screenshot]( )
+###  Homepage
+![Homepage Screenshot](https://github.com/ATOM-0872/Blog-App/blob/Blog-App/Screenshot%202025-07-30%20at%2015.33.45.png?raw=true)
 
-### 🧭 Category Filtering
-![Category Filter](https://your-image-host.com/filter.png)
+###  Profile Page
+![Category Filter](https://github.com/ATOM-0872/Blog-App/blob/Blog-App/Screenshot%202025-07-30%20at%2015.25.46.png?raw=true)
 
-### 📄 Blog Post Detail
-![Blog Post View](https://your-image-host.com/post.png)
+###  Blog Post Detail
+![Blog Post View](https://github.com/ATOM-0872/Blog-App/blob/Blog-App/Screenshot%202025-07-30%20at%2015.25.28.png?raw=true)
+
+### Category
+![Comments](https://github.com/ATOM-0872/Blog-App/blob/Blog-App/Screenshot%202025-07-30%20at%2015.22.30.png?raw=true)
+
+### Comments
+![Comments]( )
 
 
 
