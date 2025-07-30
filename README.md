@@ -1,2 +1,2 @@
 
-[View Blog-App README](https://github.com/your-username/your-repo/blob/Blog-App/README.md)
+[View Blog-App README](https://github.com/ATOM-0872/Blog-App/tree/Blog-App)
