@@ -29,8 +29,7 @@ A clean, responsive, and visually engaging blog platform built using React and T
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage Screenshot](![Uploading Screenshot 2025-07-30 at 15.33.45.png…]()
- )
+![Homepage Screenshot]( )
 
 ### 🧭 Category Filtering
 ![Category Filter](https://your-image-host.com/filter.png)
