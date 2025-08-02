@@ -58,6 +58,12 @@ A clean, responsive, and visually engaging blog platform built using React and T
 **💬Comments page invites authentic interaction—where users can share thoughts, browse discussions, and view contributor profiles in a clean, conversational interface. 🛠️ Powered by React and Tailwind CSS, it combines intuitive input fields, avatar-based threads, and responsive design to enhance community engagement.**
 
 
+## 👤 Author
+
+**Shiva Kumar**
+- GitHub: [Shiva-Kumar-872](https://github.com/Shiva-Kumar-872)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shiva-kumar-7053a429b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi%2FTCQ13aQ9qgsM7enFPL5Q%3D%3D)
+- Email: shivak24303@example.com
 
 
 ## 📦 Getting Started
